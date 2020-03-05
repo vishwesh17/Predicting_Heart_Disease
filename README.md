@@ -1,6 +1,6 @@
 # Predicting_Heart_Disease
 
-This notebook will introduce some foundation machine learning and data science concepts by exploring the problem of heart disease classification.
+This notebook will introduce some foundation machine learning and data science concepts by exploring the problem of heart disease classification. The file might take some time to load in jupyter notebook. 
 The following machine learning modelling framework will b used:
 * Exploratory Data Analysis
 * Model Training
